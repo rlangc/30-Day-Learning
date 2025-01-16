@@ -53,3 +53,4 @@ A 30-Day Learning Guide is a structured framework designed to help learners acqu
  - Java
  - Adobe Photoshop
  - HTML
+ - Microsfot Power Platform <https://github.com/rlangc/30-Day-Power-Platform.git>
