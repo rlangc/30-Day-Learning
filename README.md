@@ -54,5 +54,5 @@ A 30-Day Learning Guide is a structured framework designed to help learners acqu
  - [Microsoft Power Platform](<https://github.com/rlangc/30-Day-Power-Platform.git>)
  - [Graphic Design](https://github.com/rlangc/30-Day-Graphic-Design.git)
  - [Microsoft Excel](https://github.com/rlangc/30-Day-Microsoft-Excel.git)
- - Java
+ - [Java](https://github.com/rlangc/30-Day-Java.git)
  - Adobe Photoshop
