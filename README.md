@@ -49,7 +49,7 @@ A 30-Day Learning Guide is a structured framework designed to help learners acqu
  
 <h2>Sample of a few 30 Day Leanring Strategies</h2>
 
- - Piano
+ - [Piano](https://github.com/rlangc/30-Day-Piano.git)
  - Java
  - Adobe Photoshop
  - HTML
