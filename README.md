@@ -47,16 +47,6 @@ A 30-Day Learning Guide is a structured framework designed to help learners acqu
 - Plan for the Final Day:
   - End with a culminating activity or deliverable, such as a project, performance, or presentation that demonstrates the learner’s new skills or knowledge
  
-<h2>Sample of a few 30 Day Leanring Strategies</h2>
-
- - [Piano](https://github.com/rlangc/30-Day-Piano.git)
- - [HTML](https://github.com/rlangc/30-Day-HTML.git)
- - [Microsoft Power Platform](<https://github.com/rlangc/30-Day-Power-Platform.git>)
- - [Graphic Design](https://github.com/rlangc/30-Day-Graphic-Design.git)
- - [Microsoft Excel](https://github.com/rlangc/30-Day-Microsoft-Excel.git)
- - [Java](https://github.com/rlangc/30-Day-Java.git)
- - [Adobe Photoshop](https://github.com/rlangc/30-Day-Adobe-Photoshop.git)
-
 <h2></h2>
 <p align="center">
   <a href="https://github.com/rlangc"><b>Return to Home</b></a>
