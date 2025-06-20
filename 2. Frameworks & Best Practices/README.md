@@ -36,8 +36,6 @@ Provides sample learner pathways (Foundation Builder, Project Practitioner, Refl
 ### 10. `Best_Practices_Summary_Card.md`
 A concise, single-page summary of best practices for designing and evaluating 30-day learning guides.
 
----
-
 ## Suggested Use
 
 - Begin with the principles and checklist to frame your guide.
