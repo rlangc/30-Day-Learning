@@ -1,8 +1,6 @@
-Guidance on designing 30-day learning paths, instructional models (e.g., microlearning, spaced repetition), and sample structuring strategies.
-
 ## Frameworks & Best Practices Index
 
-This section provides foundational guidance for designing effective 30-day learning guides. Each file supports creators with instructional strategies, structural models, and applied theory to improve guide quality and learner outcomes.
+This section offers comprehensive guidance for designing effective 30-day learning guides. It includes practical frameworks, instructional strategies, and evidence-based models, such as microlearning, spaced repetition, and scaffolded progression — to support the development of clear, engaging, and outcome-driven learning experiences.
 
 ## File Index
 
