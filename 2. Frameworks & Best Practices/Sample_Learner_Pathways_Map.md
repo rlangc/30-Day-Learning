@@ -2,8 +2,6 @@
 
 This document outlines a conceptual map of learner pathways through a 30-day guide. It provides flexible, goal-oriented routes that accommodate different learner profiles and engagement styles, helping them choose a path that aligns with their needs, time commitment, and desired outcomes.
 
----
-
 ## Pathway 1: Foundation Builder
 
 **Profile:** Beginner learner seeking core knowledge with low daily time investment  
@@ -19,8 +17,6 @@ This document outlines a conceptual map of learner pathways through a 30-day gui
 - Onboarding to a new topic  
 - Employees needing just-in-time learning  
 - Those exploring before deeper commitment  
-
----
 
 ## Pathway 2: Project-Focused Practitioner
 
@@ -38,8 +34,6 @@ This document outlines a conceptual map of learner pathways through a 30-day gui
 - Skill-based training or certification prep  
 - Hands-on or creative learners  
 
----
-
 ## Pathway 3: Reflective Analyst
 
 **Profile:** Learner seeking deeper understanding through theory, application, and personal insight  
@@ -55,8 +49,6 @@ This document outlines a conceptual map of learner pathways through a 30-day gui
 - Professional development  
 - Academic enrichment  
 - Strategic or policy-related learning  
-
----
 
 ## Visual Concept (Text-Only)
 
@@ -77,8 +69,6 @@ Foundation  Project  Reflective
        Final Output
 ```
 
----
-
 ## How to Use This Map
 
 As a guide creator:
@@ -90,8 +80,6 @@ As a learner:
 - Choose a path that fits your goal and availability
 - Track your progress weekly to ensure you're meeting your objectives
 - Combine elements from multiple tracks if desired
-
----
 
 ## Summary
 
